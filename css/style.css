@@ -449,7 +449,10 @@ main {
   text-align: center;
   line-height: 20px;
 }
-
+.cplus{
+  height: 50px;
+  width: 50px;
+}
 #skills {
   display: flex;
   flex-direction: column;
