@@ -1,0 +1,41 @@
+MUHAMMAD UMER F AROOQ
++92 (349) 845-0899 ⋄ Ali Raza Abad, Raiwind Road, Lahore
+umersmx@gmail.com ⋄ LinkedIn ⋄ Portfolio Site
+OBJECTIVE
+Aspiring Full-Stack Developer and 4th-semester Computer Science student with expertise in the MERN stack (Mon-
+goDB, Express, React, Node.js) and C++. Certified in Web Development and SQL, with a passion for building
+scalable educational platforms and AI-driven automation projects. Proven leader in academic environments.
+EDUCA TION
+Bachelor of Science in Computer Science , Superior University, Lahore 2024 – 2028
+Currently in 4th Semester — Faculty of CS IT*
+Intermediate in ICS (Physics) , Punjab Group of Colleges 2022 – 2024
+CER TIFICA TIONS
+F ull Stack W eb Development (React & Node.js) , Hunarmand Punjab 2026
+Comprehensive training in building and deploying full-stack web applications using the MERN stack.
+Introduction to SQL , SoloLearn 2026
+Mastered relational database concepts, including complex queries, joins, and data manipulation.
+Digital Marketing & F reelancing , DigiSkills.pk 2026
+Certified in SEO, content strategy, and project management for freelance ecosystems.
+SKILLS
+T echnical Skills JavaScript (ES6+), React.js, Node.js, MongoDB, C++ (DSA), SQL
+T ools Vite, Tailwind CSS, Git/GitHub, Railway, Firebase, VS Code
+Professional Full-Stack Development, Database Management, Digital Marketing
+Soft Skills Group Leadership, Team Collaboration, Problem Solving
+PROJECTS
+SkillNest LMS (F ull-Stack Learning Management System)
+Developed an educational platform featuring role-based dashboards for students and instructors. Built with **React**
+and **Node.js/MongoDB**, focusing on scalable API logic and secure database modeling.
+The AI Gym Bro (Computer Vision)
+A Python-based application using Computer Vision to track movement and count exercise repetitions via webcam
+with real-time form feedback.
+Recipe Generator (Software Engineering)
+An intelligent system that suggests meal recipes based on a user’s current inventory to minimize food waste.
+Student Management System (Database Project)
+A robust relational database system in **MySQL** created for managing student records, registrations, and academic
+evaluations.
+LEADERSHIP & EXPERIENCE
+Academic Group Leader Superior University
+Directing a 3-member development team for core computer science projects. Responsible for:
+• Orchestrating task delegation and setting project milestones for software deliverables.
+• Managing version control via GitHub to ensure seamless collaboration and code integrity.
+• Leading technical presentations and defending architectural choices during project evaluations.
